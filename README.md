@@ -47,6 +47,8 @@ The study demonstrated that while the base DenseNet121 model achieved high AUROC
 
 <img width="718" height="154" alt="Screenshot 2026-01-19 at 00 28 50" src="https://github.com/user-attachments/assets/ffeeb443-b92f-4f57-9ef3-e60745988d27" />
 
+
+## Pwe label AUC
 <img width="2552" height="1223" alt="per_label_auc_heatmap_clean" src="https://github.com/user-attachments/assets/f06cf554-8897-47fb-b32f-8b2a26d7dc01" />
 
 
